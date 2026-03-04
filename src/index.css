@@ -16,11 +16,13 @@ body{
   margin-top: 100px;
 }
 
-.login__logo {
-  position: relative;
+.login_logo {
+  position: absolute;
   left: 40px;
   top: 20px;
-  width: 150px;
+  font-size: 50px;
+  color: #E50914;
+  
 }
 
 .login_enter{

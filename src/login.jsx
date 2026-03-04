@@ -46,11 +46,7 @@ function Login(){
   return (
     <div className="login">
       <div className="login__background">
-        <img
-          className="login__logo"
-          src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg"
-          alt="Netflix"
-        />
+        <h1 className="login_logo">NetFlix</h1>
 
       </div>
 
