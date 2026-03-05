@@ -46,7 +46,7 @@ function Login(){
   return (
     <div className="login">
       <div className="login__background">
-        <h1 className="login_logo">NetFlix</h1>
+        <h1 className="login_logo">NETFLIX</h1>
 
       </div>
 
